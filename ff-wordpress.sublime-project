@@ -1,0 +1,34 @@
+{
+	"folders":
+	[
+		{
+			"folder_exclude_patterns":
+			[
+				""
+			],
+			"follow_symlinks": true,
+			"name": "root",
+			"path": "."
+		},
+		{
+			"follow_symlinks": true,
+			"name": "src",
+			"path": "src"
+		},
+		{
+			"follow_symlinks": true,
+			"name": "inc",
+			"path": "inc"
+		},
+		{
+			"follow_symlinks": true,
+			"name": "css",
+			"path": "css"
+		},
+		{
+			"follow_symlinks": true,
+			"name": "js",
+			"path": "js"
+		}
+	]
+}
